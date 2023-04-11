@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 - 💬 Ask me about: writing clean code.
 - 📈 I’m currently learning: [Python, Next.js]
