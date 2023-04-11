@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 💬 **Ask me about:** writing clean code.
+- 💬 **Ask me about:** Writing clean code.
 - 📈 **I’m currently learning:** [Python, Next.js, Spanish].
 - 🗞️ **Fun fact:** I've been inside The Great Pyramid of Giza.
 
