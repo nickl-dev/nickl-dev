@@ -1,8 +1,8 @@
 # Hello there 👋
 
-- 💬 Ask me about: writing clean code.
-- 📈 I’m currently learning: [Python, Next.js, Spanish].
-- 🗞️ Fun fact: I've been inside The Great Pyramid of Giza.
+- 💬 **Ask me about:** writing clean code.
+- 📈 **I’m currently learning:** [Python, Next.js, Spanish].
+- 🗞️ **Fun fact:** I've been inside The Great Pyramid of Giza.
 
 <!--
 Here are some ideas to get you started:
