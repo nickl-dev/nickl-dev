@@ -1,9 +1,7 @@
-# Nick Lal
+### Hello there 👋
 
-<h2>Happy to meet you!</h2>
-
-- 💬 Ask me about JavaScript.
-- ✉️ How to reach me: https://ca.linkedin.com/in/nicklal
+- 💬 Ask me about: clean code.
+- 🌱 I’m currently learning: Python, Next.js.
 - ⚡ Fun fact: I've been inside The Great Pyramid of Giza.
 
 <!--
