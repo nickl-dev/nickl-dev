@@ -1,7 +1,7 @@
 # Hello there 👋
 
 - 💬 **Ask me about:** Writing clean code.
-- 📈 **I’m currently learning:** [Python, Next.js].
+- 📈 **I’m currently learning:** [Python, Next.js, TypeScript].
 - 🗞️ **Fun fact:** I've been inside The Great Pyramid of Giza.
 
 <!--
